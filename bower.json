@@ -1,0 +1,27 @@
+{
+  "name": "kiwappQRCode.js",
+  "main": "./kiwappQRCode.js",
+  "version": "1.0.0",
+  "homepage": "kiwapp.github.io/kiwappQRCode.js",
+  "authors": [
+    "Adrien Carta adrien@procheo@procheo.fr"
+  ],
+  "description": "Enable QR codes scanning in your application.",
+  "keywords": [
+    "Kiwapp",
+    "QRCode"
+  ],
+  "license": "GPL v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js",
+    "bower.json",
+    "package.json",
+    "README.md",
+    "javascripts"
+  ]
+}

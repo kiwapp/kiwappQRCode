@@ -1,0 +1,32 @@
+{
+  "name": "kiwappQRCode.js",
+  "version": "1.0.0",
+  "description": "Enable QR codes scanning in your application.",
+  "main": "kiwappQRCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kiwapp/kiwappQRCode.js.git"
+  },
+  "keywords": [
+    "kiwapp",
+    "QRcode"
+  ],
+  "author": "herzucco",
+  "license": "GPLV2",
+  "bugs": {
+    "url": "https://github.com/kiwapp/kiwappQRCode.js/issues"
+  },
+  "homepage": "https://github.com/kiwapp/kiwappQRCode.js",
+  "dependencies": {
+    "gulp": "~3.6.0",
+    "gulp-browserify": "~0.5.0",
+    "jshint-stylish": "~0.1.5",
+    "gulp-jshint": "~1.5.2",
+    "gulp-footer": "~1.0.4",
+    "type-of": "~2.0.1",
+    "gulp-rename": "~1.2.0"
+  }
+}
